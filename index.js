@@ -1,0 +1,1 @@
+export { default as UncleBwMaterial } from './src/plugin';
